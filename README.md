@@ -1,7 +1,7 @@
 <h1 align="center">Welcome to (Python) Space Invaders using the Turtle Graphics Module 👋</h1>
 <p align="center">
   <img alt="Version" src="https://img.shields.io/badge/version-1.10-blue.svg?cacheSeconds=2592000" />
-  <a href="https://twitter.com/rhc_iv" target="_blank">
+  <a href="https://twitter.com/rhc_iv" target="_blank"><br>
     <img alt="Twitter: rhc_iv" src="https://img.shields.io/twitter/follow/rhc_iv.svg?style=social" />
   </a>
 </p>
