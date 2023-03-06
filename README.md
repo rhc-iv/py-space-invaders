@@ -13,7 +13,7 @@
 > A very basic, very skeletal rendition of the classic Space Invaders game in **Python** using the built-in `turtle` graphics module.
 
 <p align="center">
-  <img alt="Space Invaders Screenshot" src="" />
+  <img alt="Space Invaders Screenshot" src="https://github.com/rhc-iv/py-space-invaders/blob/main/screenshot.png?raw=true" width="800" height="800"/>
 </p>
 
 ## Usage
